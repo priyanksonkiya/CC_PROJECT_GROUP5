@@ -9,7 +9,13 @@ The presentation is named as - CloudComputingProject_ArmTemplates.pptx and is av
 The report/paper is named as - report.pdf and is available at - <br />
 https://docs.google.com/document/d/1ghTmQYdaiyPb6lGml-_lgOmt2WZqYYFkEbSfE6cHVUk/edit?usp=sharing<br />
 <br />
+
+
+Just in case if required all the files are also available at - <br />
+ this location - https://drive.google.com/drive/folders/1HBAL_kyZLYGplvvuR2f8a6oYyFZfSw_S?usp=sharing <br />
 Thank You so much - <br />
+
+
 
 
 PRIYANK SONKIYA 17DCS009.<br />
