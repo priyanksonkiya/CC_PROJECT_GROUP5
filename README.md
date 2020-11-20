@@ -2,8 +2,9 @@
 THIS CONTAINS ALL THE FILES FOR CLOUD COMPUTING PROJECT AND ASSIGNMENTS FOR GEOUP 5 . 
 ALL THE THREE FILES - chooseVM.txt , cpuALERT.txt , VnetWithSubnets.txt are the JSON files of the ARM templates. 
 This also contains the video of our presentation group5_CC_presentation.mp4.
-The presentation is named as - CloudComputingProject_ArmTemplates.pptx and is also available here at - https://docs.google.com/presentation/d/1GIgs8k0BkiSTOBtrGCCmcJ_sfyLdl3CFTZ7V9dgxnUA/edit?usp=sharing
-The report/paper is named as - report.pdf and is also available at - https://docs.google.com/document/d/1ghTmQYdaiyPb6lGml-_lgOmt2WZqYYFkEbSfE6cHVUk/edit?usp=sharing
+The presentation is named as - CloudComputingProject_ArmTemplates.pptx and is also available here at -<br /> https://docs.google.com/presentation/d/1GIgs8k0BkiSTOBtrGCCmcJ_sfyLdl3CFTZ7V9dgxnUA/edit?usp=sharing<br />
+The report/paper is named as - report.pdf and is also available at - <br />
+https://docs.google.com/document/d/1ghTmQYdaiyPb6lGml-_lgOmt2WZqYYFkEbSfE6cHVUk/edit?usp=sharing<br />
 Thank You so much - <br />
 
 
