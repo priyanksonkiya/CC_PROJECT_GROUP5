@@ -8,7 +8,7 @@ The presentation is named as - CloudComputingProject_ArmTemplates.pdf and is  al
 https://drive.google.com/file/d/15-ga1svTDzWNwTtZ5zq_ai2jxFscTcwS/view?usp=sharing<br />
 <br />
 The report/paper is named as - report.pdf and is also  available at - <br />
-https://drive.google.com/file/d/1kPpdbjAcfUHS6lWUJQauOYUWP7N959EV/view?usp=sharing <br />
+https://drive.google.com/file/d/1RDQrHbnyoOVJucWRKGijR-hfN2Smn3jA/view?usp=sharing <br />
 <br />
 
 
