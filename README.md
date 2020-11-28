@@ -39,8 +39,8 @@ https://drive.google.com/file/d/10mjqGMgJD-XuM3YQaxJiQ9d3K4VzScTO/view?usp=shari
 The presentation is named as - CloudComputingProject_ArmTemplates.pdf and is  also available here at -<br />
 https://drive.google.com/file/d/15-ga1svTDzWNwTtZ5zq_ai2jxFscTcwS/view?usp=sharing<br />
 <br />
-The report/paper is named as - report.pdf and is also  available at - <br />
-https://drive.google.com/file/d/1c2YE4DI5pL9bHdDMryxYSjBKr1OKv_Xy/view?usp=sharing <br />
+The report/paper is named as - ARM templates revise.pdf and is also  available at - <br />
+https://drive.google.com/file/d/1H6AMTbi6ggJq4tjkgjGHIaqLmfZ3cmS1/view?usp=sharing <br />
 <br />
 
 
